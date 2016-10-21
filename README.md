@@ -1,5 +1,5 @@
-# e-router
-simple router for practice
+# ko-router
+simple router for korol
 ### api
 * router.map
 * router.start
